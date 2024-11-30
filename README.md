@@ -16,4 +16,7 @@ The project aims to detect deepfake videos using deep learning techniques like R
   Load the saved pytorch model<br/>
   Predict the output based in trained weights.
 
-
+# Datasets:
+  https://github.com/ondyari/FaceForensics
+  https://github.com/yuezunli/celeb-deepfakeforensics
+  https://www.kaggle.com/c/deepfake-detection-challenge/data
