@@ -6,14 +6,14 @@ The project aims to detect deepfake videos using deep learning techniques like R
   crop the face from each frame<br/>
   save the face cropped video<br/>
 # Model and Training<br/>
-    It will load the preprocessed video and labels from a csv file<br/>
-    Create a pytorch model using transfer learning with RestNext50 and LSTM<br/>
-    Split the data into train and test data<br/>
-    Train the model<br/>
-    Test the model<br/>
-    save the model in .pt file<br/>
+  It will load the preprocessed video and labels from a csv file<br/>
+  Create a pytorch model using transfer learning with RestNext50 and LSTM<br/>
+  Split the data into train and test data<br/>
+  Train the model<br/>
+  Test the model<br/>
+  save the model in .pt file<br/>
 # Predicting<br/>
-    Load the saved pytorch model<br/>
-    Predict the output based in trained weights.
+  Load the saved pytorch model<br/>
+  Predict the output based in trained weights.
 
 
