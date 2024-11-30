@@ -17,6 +17,6 @@ The project aims to detect deepfake videos using deep learning techniques like R
   Predict the output based in trained weights.
 
 # Datasets:
-  https://github.com/ondyari/FaceForensics
-  https://github.com/yuezunli/celeb-deepfakeforensics
-  https://www.kaggle.com/c/deepfake-detection-challenge/data
+  https://github.com/ondyari/FaceForensics<br/>
+  https://github.com/yuezunli/celeb-deepfakeforensics<br/>
+  https://www.kaggle.com/c/deepfake-detection-challenge/data<br/>
